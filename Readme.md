@@ -7,3 +7,11 @@
 # [Bidkar Aragon Cardenas](https://github.com/bidkar)
 
 ### Evaluación Parcial
+
+
+##### ¿Qué importancia tiene el control de versiones?
+
+> Nos permite saber como desarrolladores
+> cual fue el inicio de un proyecto,
+> permite al usuario saber que tan actualizado esta el proyecto
+> ademas de identificar cuando se han realizado correciones de errores
